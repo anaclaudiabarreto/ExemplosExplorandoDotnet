@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 3,
+    "nomeProduto": "Licença de Software Atualizado",
+    "Preco": 1800.0,
+    "Data": "2024-10-02T12:58:07.7307258-03:00",
+    "Desconto": null
+  },
+  {
+    "Id": 4,
+    "nomeProduto": "Água mineral e açúcar",
+    "Preco": 200.0,
+    "Data": "2024-10-02T12:59:07.7307258-03:00",
+    "Desconto": 10
+  }
+]

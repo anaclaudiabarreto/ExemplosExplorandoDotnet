@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 2,
+    "nomeProduto": "Licença de Software",
+    "Preco": 1000.0,
+    "Data": "2024-10-02T23:30:21.1440244-03:00",
+    "Desconto": null
+  },
+  {
+    "Id": 3,
+    "nomeProduto": "Café e chá",
+    "Preco": 200.0,
+    "Data": "2024-10-02T23:30:21.1440244-03:00",
+    "Desconto": null
+  }
+]
